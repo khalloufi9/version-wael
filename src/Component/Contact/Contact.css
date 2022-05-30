@@ -1,0 +1,34 @@
+.backk
+{
+    background-image: url('https://wallpaperaccess.com/full/1884512.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.item1{
+    width: 500px;
+    margin-left: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+   
+    
+}
+
+
+
+.contact{
+    color: black;
+    text-align: end;
+    margin-top: 25px;
+    font-weight: 600;
+    font-size: 32px ;
+    line-height: 36px ;
+    
+}
+
+
